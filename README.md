@@ -3,6 +3,7 @@
 **Initial Mock-up:** https://www.figma.com/file/BJSVMdRVcrnY48UGsKK9wW/Halas-App?type=design&mode=design&t=NFxfiYEdf3u6NEev-1
 
 **Overview**
+
 The Halas Center Mobile App is tailored for Loyola students to enhance their gym experience. It integrates multiple features ranging from gym check-ins to personalized fitness tracking. The ultimate vision for the app is to achieve nationwide adoption with college-specific access.
 
 **Features either implemented or to be implemented**
